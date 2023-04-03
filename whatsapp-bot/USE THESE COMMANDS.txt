@@ -5,3 +5,4 @@ npm install dotenv --save
 npm install qrcode-terminal
 
 You can edit the index.js file to use your own parameters
+Run index.js to use your own bot
